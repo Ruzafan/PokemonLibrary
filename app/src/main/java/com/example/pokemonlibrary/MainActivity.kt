@@ -28,7 +28,7 @@ class MainActivity : AppCompatActivity() {
                 getPokemon()
             }
         })
-        getPokemonCarrousel()
+        //getPokemonCarrousel()
     }
 
     private fun getPokemon(){
